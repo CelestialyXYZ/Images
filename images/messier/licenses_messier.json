@@ -1,0 +1,882 @@
+[
+  {
+    "messierNumber": 1,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Crab_Nebula.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/NASA\" title=\"NASA\">NASA</a>, <a href=\"//commons.wikimedia.org/wiki/ESA\" class=\"mw-redirect\" title=\"ESA\">ESA</a>, J. Hester and A. Loll (Arizona State University)",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 2,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Messier2_-_HST_-_Potw1913a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier2_-_HST_-_Potw1913a.jpg",
+    "license": "CC BY 4.0",
+    "author": "Credit: ESA/Hubble &amp; NASA, G. Piotto et al.",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 3,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Messier3_-_HST_-_Potw1914a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier3_-_HST_-_Potw1914a.jpg",
+    "license": "CC BY 4.0",
+    "author": "Credit: ESA/Hubble &amp; NASA, G. Piotto et al.",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 4,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Globular_star_cluster_Messier_4.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Globular_star_cluster_Messier_4.jpg",
+    "license": "CC BY 4.0",
+    "author": "ESO Imaging Survey",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 5,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Messier_5_-_HST.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_5_-_HST.jpg",
+    "license": "Public domain",
+    "author": "ESA/Hubble &amp; NASA",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 6,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/M6a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M6a.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.ngc7000.org/\">Ole Nielsen</a>",
+    "usageTerms": "Creative Commons Attribution-Share Alike 2.5"
+  },
+  {
+    "messierNumber": 7,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/The_star_cluster_Messier_7.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:The_star_cluster_Messier_7.jpg",
+    "license": "CC BY 3.0",
+    "author": "Credit: ESO",
+    "usageTerms": "Creative Commons Attribution 3.0"
+  },
+  {
+    "messierNumber": 8,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/LagoonHunterWilson.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:LagoonHunterWilson.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Hewholooks&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Hewholooks (page does not exist)\">Hewholooks</a>",
+    "usageTerms": "Creative Commons Attribution-Share Alike 3.0"
+  },
+  {
+    "messierNumber": 9,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Globular_cluster_Messier_9_%28captured_by_the_Hubble_Space_Telescope%29.tif",
+    "url": "https://en.wikipedia.org/wiki/File:Globular_cluster_Messier_9_(captured_by_the_Hubble_Space_Telescope).tif",
+    "license": "CC BY 4.0",
+    "author": "NASA &amp; ESA",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 10,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Messier_10_Hubble_WikiSky.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_10_Hubble_WikiSky.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/NASA\" class=\"extiw\" title=\"en:NASA\">en:NASA</a>, <a href=\"https://en.wikipedia.org/wiki/STScI\" class=\"extiw\" title=\"en:STScI\">en:STScI</a>, <a href=\"https://en.wikipedia.org/wiki/WikiSky\" class=\"extiw\" title=\"en:WikiSky\">en:WikiSky</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 11,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Eso1430a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Eso1430a.jpg",
+    "license": "CC BY 4.0",
+    "author": "ESO",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 12,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/M12_Hubble.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M12_Hubble.jpg",
+    "license": "Public domain",
+    "author": "ESA/Hubble &amp; NASA",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 13,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Messier_13_Hubble_WikiSky.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_13_Hubble_WikiSky.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/NASA\" class=\"extiw\" title=\"en:NASA\">en:NASA</a>, <a href=\"https://en.wikipedia.org/wiki/STScI\" class=\"extiw\" title=\"en:STScI\">en:STScI</a>, <a href=\"https://en.wikipedia.org/wiki/WikiSky\" class=\"extiw\" title=\"en:WikiSky\">en:WikiSky</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 14,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Messier_object_014.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_object_014.jpg",
+    "license": "Public domain",
+    "author": "Atlas Image obtained as part of the Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 15,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Messier_15_Hubble_WikiSky.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_15_Hubble_WikiSky.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/NASA\" class=\"extiw\" title=\"en:NASA\">en:NASA</a>, <a href=\"https://en.wikipedia.org/wiki/STScI\" class=\"extiw\" title=\"en:STScI\">en:STScI</a>, <a href=\"https://en.wikipedia.org/wiki/WikiSky\" class=\"extiw\" title=\"en:WikiSky\">en:WikiSky</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 16,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Eagle_Nebula_from_ESO.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Eagle_Nebula_from_ESO.jpg",
+    "license": "CC BY 4.0",
+    "author": "ESO",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 17,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/The_star_formation_region_Messier_17.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:The_star_formation_region_Messier_17.jpg",
+    "license": "CC BY 4.0",
+    "author": "ESO",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 18,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Messier18.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier18.jpg",
+    "licence": "Public domain",
+    "author": "Atlas Image obtained as part of the Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 19,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Messier_19_Hubble_WikiSky.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_19_Hubble_WikiSky.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/NASA\" class=\"extiw\" title=\"en:NASA\">en:NASA</a>, <a href=\"https://en.wikipedia.org/wiki/STScI\" class=\"extiw\" title=\"en:STScI\">en:STScI</a>, <a href=\"https://en.wikipedia.org/wiki/WikiSky\" class=\"extiw\" title=\"en:WikiSky\">en:WikiSky</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 20,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Trifid.nebula.arp.750pix.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Trifid.nebula.arp.750pix.jpg",
+    "license": "Public domain",
+    "author": "Jeff Hester (Arizona State University), Palomar telescope - Nasa",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 21,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Messier_object_021.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_object_021.jpg",
+    "license": "Public domain",
+    "author": "Atlas Image [or Atlas Image mosaic] courtesy of 2MASS/UMass/IPAC-Caltech/NASA/NSF.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 22,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Messier_22_Hubble_WikiSky.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_22_Hubble_WikiSky.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/NASA\" class=\"extiw\" title=\"en:NASA\">en:NASA</a>, <a href=\"https://en.wikipedia.org/wiki/STScI\" class=\"extiw\" title=\"en:STScI\">en:STScI</a>, <a href=\"https://en.wikipedia.org/wiki/WikiSky\" class=\"extiw\" title=\"en:WikiSky\">en:WikiSky</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 23,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Messier_object_023.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_object_023.jpg",
+    "license": "Public domain",
+    "author": "Atlas Image [or Atlas Image mosaic] courtesy of 2MASS/UMass/IPAC-Caltech/NASA/NSF.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 24,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Messier_24_Colombari_crop_invert.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_24_Colombari_crop_invert.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Roberto Colombari",
+    "usageTerms": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  {
+    "messierNumber": 25,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Messier_object_025.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_object_025.jpg",
+    "license": "Public domain",
+    "author": "Atlas Image [or Atlas Image mosaic] courtesy of 2MASS/UMass/IPAC-Caltech/NASA/NSF.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 26,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Messier_26.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_26.jpg",
+    "license": "CC BY 4.0",
+    "author": "Hillary Mathis, Vanessa Harvey, REU program/NOIRLab/NSF/AURA",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 27,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/M27_-_Dumbbell_Nebula.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M27_-_Dumbbell_Nebula.jpg",
+    "license": "CC BY 4.0",
+    "author": "ESO",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 28,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nebulous%2C_but_no_nebula_Messier_28.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Nebulous,_but_no_nebula_Messier_28.jpg",
+    "license": "CC BY 4.0",
+    "author": "ESA/Hubble &amp; NASA, J. E. Grindlay et al.",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 29,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Messier_29.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_29.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Veryoldphotons&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Veryoldphotons (page does not exist)\">Veryoldphotons</a>",
+    "usageTerms": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  {
+    "messierNumber": 30,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Messier_30_Hubble_WikiSky.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_30_Hubble_WikiSky.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/NASA\" class=\"extiw\" title=\"en:NASA\">en:NASA</a>, <a href=\"https://en.wikipedia.org/wiki/STScI\" class=\"extiw\" title=\"en:STScI\">en:STScI</a>, <a href=\"https://en.wikipedia.org/wiki/WikiSky\" class=\"extiw\" title=\"en:WikiSky\">en:WikiSky</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 31,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Andromeda_Galaxy_(with_h-alpha).jpg",
+    "license": "CC BY 2.0",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/8269775@N05\">Adam Evans</a>",
+    "usageTerms": "Creative Commons Attribution 2.0"
+  },
+  {
+    "messierNumber": 32,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/M32_Lanoue.png",
+    "url": "https://en.wikipedia.org/wiki/File:M32_Lanoue.png",
+    "license": "Public domain",
+    "author": "John Lanoue, <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.toddgross.blogs.com/astrophotography\">[1]</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 33,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg",
+    "license": "CC BY 4.0",
+    "author": "ESO",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 34,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/M34_2mass_atlas.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M34_2mass_atlas.jpg",
+    "license": "Public domain",
+    "author": "Atlas Image [or Atlas Image mosaic] courtesy of 2MASS/UMass/IPAC-Caltech/NASA/NSF.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 35,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/M35atlas.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M35atlas.jpg",
+    "license": "Public domain",
+    "author": "Atlas Image [or Atlas Image mosaic] obtained as part of the Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, fund",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 36,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/M36a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M36a.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "Ole Nielsen",
+    "usageTerms": "Creative Commons Attribution-Share Alike 2.5"
+  },
+  {
+    "messierNumber": 37,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/M37a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M37a.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "Ole Nielsen",
+    "usageTerms": "Creative Commons Attribution-Share Alike 2.5"
+  },
+  {
+    "messierNumber": 38,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/M38_Open_Cluster.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M38_Open_Cluster.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mgarciasalazar&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mgarciasalazar (page does not exist)\">Miguel Garcia</a>",
+    "usageTerms": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  {
+    "messierNumber": 39,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/M39atlas.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M39atlas.jpg",
+    "license": "Public domain",
+    "author": null,
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 40,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Messier_object_40.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_object_40.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 41,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Messier_041_2MASS.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_041_2MASS.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 42,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
+    "license": "Public domain",
+    "author": "NASA, ESA, M. Robberto (Space Telescope Science Institute/ESA) and the Hubble Space Telescope Orion Treasury Project Team",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 43,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/M43_HST.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M43_HST.jpg",
+    "license": "Public domain",
+    "author": "NASA, ESA, M. Robberto (Space Telescope Science Institute/ESA) and the Hubble Space Telescope Orion Treasury Project Team",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 44,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Messier_44_2018.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_44_2018.jpg",
+    "license": "CC0",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/133259498@N05\">Giuseppe Donatiello</a> from Oria (Brindisi), Italy",
+    "usageTerms": "Creative Commons Zero, Public Domain Dedication"
+  },
+  {
+    "messierNumber": 45,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bob_Star_-_M45_Carranza_Field_%28by%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Bob_Star_-_M45_Carranza_Field_(by).jpg",
+    "license": "CC BY 2.0",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/52031391@N00\">Bob Star</a>",
+    "usageTerms": "Creative Commons Attribution 2.0"
+  },
+  {
+    "messierNumber": 46,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/M46a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M46a.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.ngc7000.org/\">Ole Nielsen</a>",
+    "usageTerms": "Creative Commons Attribution-Share Alike 2.5"
+  },
+  {
+    "messierNumber": 47,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/M47a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M47a.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.ngc7000.org/\">Ole Nielsen</a>",
+    "usageTerms": "Creative Commons Attribution-Share Alike 2.5"
+  },
+  {
+    "messierNumber": 48,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/M48a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M48a.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.ngc7000.org/\">Ole Nielsen</a>",
+    "usageTerms": "Creative Commons Attribution-Share Alike 2.5"
+  },
+  {
+    "messierNumber": 49,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Messier_49_Hubble_WikiSky.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_49_Hubble_WikiSky.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/NASA\" class=\"extiw\" title=\"en:NASA\">en:NASA</a>, <a href=\"https://en.wikipedia.org/wiki/STScI\" class=\"extiw\" title=\"en:STScI\">en:STScI</a>, <a href=\"https://en.wikipedia.org/wiki/WikiSky\" class=\"extiw\" title=\"en:WikiSky\">en:WikiSky</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 50,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/M50a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M50a.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.ngc7000.org/\">Ole Nielsen</a>",
+    "usageTerms": "Creative Commons Attribution-Share Alike 2.5"
+  },
+  {
+    "messierNumber": 51,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Messier51_sRGB.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier51_sRGB.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/NASA\" title=\"NASA\">NASA</a> and <a href=\"//commons.wikimedia.org/wiki/European_Space_Agency\" title=\"European Space Agency\">European Space Agency</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 52,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/M52atlas.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M52atlas.jpg",
+    "license": "Public domain",
+    "author": null,
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 53,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Globular_Cluster_M53.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Globular_Cluster_M53.jpg",
+    "license": "Public domain",
+    "author": "No machine-readable author provided. <a href=\"//commons.wikimedia.org/wiki/User:RichardB\" title=\"User:RichardB\">RichardB</a> assumed (based on copyright claims).",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 54,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Messier54.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier54.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 55,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Messier55.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier55.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 56,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/M56-LRGB.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M56-LRGB.jpg",
+    "license": "CC BY 2.5",
+    "author": "Robert J. Vanderbei, Princeton University",
+    "usageTerms": "Creative Commons Attribution 2.5"
+  },
+  {
+    "messierNumber": 57,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/M57_The_Ring_Nebula.JPG",
+    "url": "https://en.wikipedia.org/wiki/File:M57_The_Ring_Nebula.JPG",
+    "license": "Public domain",
+    "author": "The Hubble Heritage Team (AURA/STScI/NASA)",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 58,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/M58s_%28visible%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M58s_(visible).jpg",
+    "license": "CC BY-SA 3.0 us",
+    "author": "Credit Line and Copyright        Adam Block/Mount Lemmon SkyCenter/University of Arizona",
+    "usageTerms": "Creative Commons Attribution-Share Alike 3.0 us"
+  },
+  {
+    "messierNumber": 59,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Messier59_-_HST_-_Potw1921a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier59_-_HST_-_Potw1921a.jpg",
+    "license": "CC BY 4.0",
+    "author": "Credit: ESA/Hubble &amp; NASA, L. Ho et al.",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 60,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Messier_60_Hubble_WikiSky.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_60_Hubble_WikiSky.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/NASA\" class=\"extiw\" title=\"en:NASA\">en:NASA</a>, <a href=\"https://en.wikipedia.org/wiki/STScI\" class=\"extiw\" title=\"en:STScI\">en:STScI</a>, <a href=\"https://en.wikipedia.org/wiki/WikiSky\" class=\"extiw\" title=\"en:WikiSky\">en:WikiSky</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 61,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Messier61_-_ESO_-_Potw1901a.tif",
+    "url": "https://en.wikipedia.org/wiki/File:Messier61_-_ESO_-_Potw1901a.tif",
+    "license": "CC BY 4.0",
+    "author": "Credit: ESO",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 62,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Messier_object_062.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_object_062.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 63,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/M63s.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M63s.jpg",
+    "license": "CC BY-SA 3.0 us",
+    "author": "Credit Line and Copyright        Adam Block/Mount Lemmon SkyCenter/University of Arizona",
+    "usageTerms": "Creative Commons Attribution-Share Alike 3.0 us"
+  },
+  {
+    "messierNumber": 64,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Blackeyegalaxy.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Blackeyegalaxy.jpg",
+    "license": "Public domain",
+    "author": "NASA and The Hubble Heritage Team (AURA/STScI)",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 65,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/M65.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M65.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/user:Anttler\" class=\"extiw\" title=\"en:user:Anttler\">en:user:Anttler</a>",
+    "usageTerms": "Creative Commons Attribution-Share Alike 3.0"
+  },
+  {
+    "messierNumber": 66,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Phot-33c-03-fullres.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Phot-33c-03-fullres.jpg",
+    "license": "CC BY 4.0",
+    "author": "ESO",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 67,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Messier_object_067.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_object_067.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 68,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Messier_object_068.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_object_068.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 69,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Messier_object_069.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_object_069.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 70,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Messier70.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier70.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 71,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Messier71.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier71.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 72,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Messier72.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier72.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 73,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Messier_073_2MASS.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_073_2MASS.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 74,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Messier_74_by_HST.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_74_by_HST.jpg",
+    "license": "Public domain",
+    "author": "NASA, ESA, and the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration. Acknowledgment: R. Chandar (University of Toledo) and J. Miller (University of Michigan)",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 75,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Messier75.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier75.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 76,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/M76-RL5-DDmin-Gamma-LRGB_883x628.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M76-RL5-DDmin-Gamma-LRGB_883x628.jpg",
+    "license": "CC BY 2.5",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/User:Vanderbei\" class=\"extiw\" title=\"wikipedia:User:Vanderbei\">Vanderbei</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+    "usageTerms": "Creative Commons Attribution 2.5"
+  },
+  {
+    "messierNumber": 77,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Messier_77_spiral_galaxy_by_HST.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_77_spiral_galaxy_by_HST.jpg",
+    "license": "Public domain",
+    "author": "NASA, ESA &amp; A. van der Hoeven",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 78,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Messier_78.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_78.jpg",
+    "license": "CC BY 4.0",
+    "author": "ESO/Igor Chekalin",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 79,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/M79a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M79a.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.ngc7000.org/\">Ole Nielsen</a>",
+    "usageTerms": "Creative Commons Attribution-Share Alike 2.5"
+  },
+  {
+    "messierNumber": 80,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg",
+    "license": "Public domain",
+    "author": "NASA, The Hubble Heritage Team, STScI, AURA",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 81,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/M81.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M81.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Ken Crawford",
+    "usageTerms": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  {
+    "messierNumber": 82,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/JPEG_M82_Cigar_Galaxyjn.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:JPEG_M82_Cigar_Galaxyjn.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jcnic&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jcnic (page does not exist)\">Jcnic</a>",
+    "usageTerms": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  {
+    "messierNumber": 83,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/M83_-_Southern_Pinwheel.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M83_-_Southern_Pinwheel.jpg",
+    "license": "CC BY 4.0",
+    "author": "(Credit) ESO",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 84,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Messier_84_nucleus_Hubble.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_84_nucleus_Hubble.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/NASA\" class=\"extiw\" title=\"en:NASA\">en:NASA</a>, <a href=\"https://en.wikipedia.org/wiki/STScI\" class=\"extiw\" title=\"en:STScI\">en:STScI</a>, <a href=\"https://en.wikipedia.org/wiki/WikiSky\" class=\"extiw\" title=\"en:WikiSky\">en:WikiSky</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 85,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Messier_85_Hubble_WikiSky.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_85_Hubble_WikiSky.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/NASA\" class=\"extiw\" title=\"en:NASA\">en:NASA</a>, <a href=\"https://en.wikipedia.org/wiki/STScI\" class=\"extiw\" title=\"en:STScI\">en:STScI</a>, <a href=\"https://en.wikipedia.org/wiki/WikiSky\" class=\"extiw\" title=\"en:WikiSky\">en:WikiSky</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 86,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Messier_86_Hubble_WikiSky.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_86_Hubble_WikiSky.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/NASA\" class=\"extiw\" title=\"en:NASA\">en:NASA</a>, <a href=\"https://en.wikipedia.org/wiki/STScI\" class=\"extiw\" title=\"en:STScI\">en:STScI</a>, <a href=\"https://en.wikipedia.org/wiki/WikiSky\" class=\"extiw\" title=\"en:WikiSky\">en:WikiSky</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 87,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Messier_87_Hubble_WikiSky.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_87_Hubble_WikiSky.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"https://en.wikipedia.org/wiki/NASA\" class=\"extiw\" title=\"en:NASA\">en:NASA</a>, <a href=\"https://en.wikipedia.org/wiki/STScI\" class=\"extiw\" title=\"en:STScI\">en:STScI</a>, <a href=\"https://en.wikipedia.org/wiki/WikiSky\" class=\"extiw\" title=\"en:WikiSky\">en:WikiSky</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 88,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/M88s.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M88s.jpg",
+    "license": "CC BY-SA 3.0 us",
+    "author": "Credit Line and Copyright        Adam Block/Mount Lemmon SkyCenter/University of Arizona",
+    "usageTerms": "Creative Commons Attribution-Share Alike 3.0 us"
+  },
+  {
+    "messierNumber": 89,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Messier89_-_HST_-_Potw1902a.tif",
+    "url": "https://en.wikipedia.org/wiki/File:Messier89_-_HST_-_Potw1902a.tif",
+    "license": "CC BY 4.0",
+    "author": "ESA/Hubble and NASA",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 90,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Messier90_-_SDSS_DR14_%28panorama%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier90_-_SDSS_DR14_(panorama).jpg",
+    "license": "CC BY 4.0",
+    "author": "Sloan Digital Sky Survey",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 91,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/M91s.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M91s.jpg",
+    "license": "CC BY-SA 3.0 us",
+    "author": "Credit Line and Copyright        Adam Block/Mount Lemmon SkyCenter/University of Arizona",
+    "usageTerms": "Creative Commons Attribution-Share Alike 3.0 us"
+  },
+  {
+    "messierNumber": 92,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Globular_Cluster_M92.JPG",
+    "url": "https://en.wikipedia.org/wiki/File:Globular_Cluster_M92.JPG",
+    "license": "Public domain",
+    "author": "No machine-readable author provided. <a href=\"//commons.wikimedia.org/wiki/User:RichardB\" title=\"User:RichardB\">RichardB</a> assumed (based on copyright claims).",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 93,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Messier_object_093.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_object_093.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 94,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Messier_94.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_94.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "R Jay Gabany (Blackbird Obs.)",
+    "usageTerms": "Creative Commons Attribution-Share Alike 3.0"
+  },
+  {
+    "messierNumber": 95,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_VLT_goes_lion_hunting.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:The_VLT_goes_lion_hunting.jpg",
+    "license": "CC BY 3.0",
+    "author": "ESO",
+    "usageTerms": "Creative Commons Attribution 3.0"
+  },
+  {
+    "messierNumber": 96,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/NGC_3368_ESO.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:NGC_3368_ESO.jpg",
+    "license": "CC BY 3.0",
+    "author": "ESO/Oleg Maliy",
+    "usageTerms": "Creative Commons Attribution 3.0"
+  },
+  {
+    "messierNumber": 97,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/M97-stargazer-obs.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M97-stargazer-obs.jpg",
+    "license": "Public domain",
+    "author": "<a href=\"https://de.wikipedia.org/wiki/Benutzer:Stargazer_7000\" class=\"extiw\" title=\"de:Benutzer:Stargazer 7000\">Stargazer 7000</a>",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 98,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/M-98.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M-98.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "The original uploader was <a href=\"https://en.wikipedia.org/wiki/User:Clh288\" class=\"extiw\" title=\"wikipedia:User:Clh288\">Clh288</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>.",
+    "usageTerms": "Creative Commons Attribution-Share Alike 2.5"
+  },
+  {
+    "messierNumber": 99,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/M99.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M99.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.ngc7000.org/\">Ole Nielsen</a>",
+    "usageTerms": "Creative Commons Attribution-Share Alike 2.5"
+  },
+  {
+    "messierNumber": 100,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Messier_100_and_Supernova_SN_2006X.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_100_and_Supernova_SN_2006X.jpg",
+    "license": "CC BY 4.0",
+    "author": "ESO/IDA/Danish 1.5 m/R. Gendler, J.-E. Ovaldsen, C. C. Thöne and C. Féron",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 101,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/M101_hires_STScI-PRC2006-10a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M101_hires_STScI-PRC2006-10a.jpg",
+    "license": "CC BY 4.0",
+    "author": "<p><b>Credit:</b>\n</p><p>Image: European Space Agency &amp; NASA\n</p><p>Acknowledgements:\n</p><p>Project Investigators for the original Hubble data: K.D. Kuntz (GSFC), F. Bresolin (University of Hawaii), J. Trauger (JPL), J. Mould (NOAO), and Y.-H. Chu (University of Illinois, Urbana)\n</p><p>Image processing: Davide De Martin (ESA/Hubble)\n</p><p>CFHT image: Canada-France-Hawaii Telescope/J.-C. Cuillandre/Coelum\n</p>\nNOAO image: George Jacoby, Bruce Bohannan, Mark Hanna/NOAO/AURA/NSF",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 102,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ngc5866_hst_big.png",
+    "url": "https://en.wikipedia.org/wiki/File:Ngc5866_hst_big.png",
+    "license": "Public domain",
+    "author": "NASA, ESA, and The Hubble Heritage Team (STScI/AURA)",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 103,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Messier_object_103.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_object_103.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 104,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/M104_ngc4594_sombrero_galaxy_hi-res.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:M104_ngc4594_sombrero_galaxy_hi-res.jpg",
+    "license": "Public domain",
+    "author": "NASA/ESA and The Hubble Heritage Team (STScI/AURA)",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 105,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Messier105_-_HST_-_Potw1901a.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier105_-_HST_-_Potw1901a.jpg",
+    "license": "CC BY 4.0",
+    "author": "Credit: ESA/Hubble &amp; NASA, C. Sarazin et al.",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 106,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Messier_106_visible_and_infrared_composite.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_106_visible_and_infrared_composite.jpg",
+    "license": "Public domain",
+    "author": "NASA, ESA, the Hubble Heritage Team (STScI/AURA), and R. Gendler (for the Hubble Heritage Team). Acknowledgment: J. GaBany",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 107,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Messier_object_107.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_object_107.jpg",
+    "license": "Public domain",
+    "author": "Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.",
+    "usageTerms": "Public domain"
+  },
+  {
+    "messierNumber": 108,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Messier108_-_SDSS_DR_14_%28panorama%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier108_-_SDSS_DR_14_(panorama).jpg",
+    "license": "CC BY 4.0",
+    "author": "Sloan Digital Sky Survey",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 109,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Messier109_-_SDSS_DR14_%28panorama%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier109_-_SDSS_DR14_(panorama).jpg",
+    "license": "CC BY 4.0",
+    "author": "Sloan Digital Sky Survey",
+    "usageTerms": "Creative Commons Attribution 4.0"
+  },
+  {
+    "messierNumber": 110,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Messier_object_110.jpg",
+    "url": "https://en.wikipedia.org/wiki/File:Messier_object_110.jpg",
+    "license": "Public domain",
+    "author": "<i>Atlas Image [or Atlas Image mosaic] obtained as part of the Two Micron All Sky Survey (2MASS), a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.</i>",
+    "usageTerms": "Public domain"
+  }
+]
